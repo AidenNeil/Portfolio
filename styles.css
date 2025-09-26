@@ -1,4 +1,10 @@
-/* CSS Variables */
+/* Name: Adien-Neil McLeod 
+        Student ID: 2407731
+        Date: September 24, 2025
+        Description: Personal Profile Webpage
+        Web Programming-UM2 Lab 1
+*/
+
 :root {
     --primary: #2c3e50;
     --secondary: #3498db;
@@ -162,4 +168,5 @@ footer {
         width: 200px;
         justify-content: center;
     }
+
 }
